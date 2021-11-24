@@ -1,1 +1,1 @@
-# nextjs-blog
+Learn Basics of Nextjs
